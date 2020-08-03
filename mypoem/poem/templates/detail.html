@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>诗歌详情</title>
+</head>
+<body>
+<a href="{% url 'poem:index' %}">返回主页</a>
+<article>
+    <h2>{{ poem.title }}</h2>
+    <h2>{{ poem.content }}</h2>
+</article>
+
+</body>
+</html>

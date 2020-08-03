@@ -1,0 +1,29 @@
+{
+  "clickhouse": {
+    "ch1": {
+      "db": "aiops",
+      "host": "192.168.0.104",
+      "maxLifeTime": 300,
+      "password": "",
+      "retryTimes": 5,
+      "port": 9000,
+      "username": "default"
+    }
+  },
+  "kafka": {
+    "kfk1": {
+      "brokers": "192.168.0.104:9092",
+      "sasl": {
+        "password": "",
+        "username": ""
+      },
+      "Version": "2.4.0"
+    }
+  },
+  "common": {
+    "bufferSize": 90000,
+    "minBufferSize": 3,
+    "flushInterval": 5,
+    "logLevel": "debug"
+  }
+}

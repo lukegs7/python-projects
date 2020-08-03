@@ -1,0 +1,33 @@
+{% extends "file_upload/base.html" %}
+
+{% block content %}
+<h3>File list</h3>
+<br>
+<br>
+<form action="/file/fetch/" method="get">
+     <label>请输入要下载的文件：</label><input type="text" name="file_url" value="" style="width:300px">&nbsp;&nbsp;
+    <input type="submit" value="download">
+<!--<button onclick="javascript:location.href='/file/fetch/'">download</button>-->
+</form>
+<br>
+<br>
+
+{% if files %}
+<table>
+    <tr>
+        <th width="400">文件名</th>
+        <th width="200">文件大小</th>
+        <th width="200">最近更新时间</th>
+    </tr>
+    {% for file in files %}
+        <tr>
+            <td><a href="/file/download/{{ file.name }}">{{ file.name }}</a></td>
+            <td>{{ file.size }}</td>
+            <td>{{ file.modified_time }}</td>
+        </tr>
+    {% endfor %}
+</table>
+{% else %}
+    <p> <a href="{% url 'file_upload:file_upload' %}">here</a>to upload files.</p>
+{% endif %}
+{% endblock %}

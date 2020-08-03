@@ -1,0 +1,20 @@
+{	
+
+	"name" : "api_request",
+
+	"kafka": "kfk1",
+	"topic": "topic-aiops",
+	"earliest" : true,
+	"consumerGroup" : "group_aiops1",
+
+	"parser" : "json",
+	"clickhouse" : "ch1",
+	"tableName" : "kpi",
+	
+	"@desc_of_autoSchema" : "auto schema will auto fetch the schema from clickhouse",
+	"autoSchema" : true,
+	"@desc_of_exclude_columns" : "this columns will be excluded by insert SQL ",
+	"excludeColumns" : ["time"],
+
+	"bufferSize" : 90000
+}

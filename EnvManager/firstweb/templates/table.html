@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<table border="1">
+    <thead>
+    <tr>
+        <th>valueA</th>
+        <th>valueB</th>
+        <th>result</th>
+    </tr>
+    </thead>
+    {% for t  in data %}
+    <tr>
+        <td>{{ t.value_a }}</td>
+        <td>{{ t.value_b }}</td>
+        <td>{{ t.result }}</td>
+    </tr>
+    {% endfor %}
+</table>
+<form action="del" method="POST">
+    {% csrf_token %}
+    <input type="submit" value="清库">
+</form>
+</body>
+</html>

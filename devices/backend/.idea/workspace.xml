@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0f2f4a1-47d6-41fa-bfbc-b6b956d37269" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../restdemo/restdemo/datasource/serializer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../restdemo/restdemo/datasource/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mypoem/student/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../mypoem/student/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restdemo/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../restdemo/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restdemo/.idea/restdemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../restdemo/.idea/restdemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restdemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../restdemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restdemo/restdemo/demo/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../restdemo/restdemo/demo/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restdemo/restdemo/demo/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../restdemo/restdemo/demo/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restdemo/restdemo/restdemo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../restdemo/restdemo/restdemo/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restdemo/restdemo/restdemo/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../restdemo/restdemo/restdemo/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../typeidea/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../typeidea/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1caMrUKda0OkFQZli5BdXxKbFGC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="backend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EnvManager" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EnvManager/manage.py" />
+      <option name="PARAMETERS" value="runserver 0.0.0.0:8000" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0f2f4a1-47d6-41fa-bfbc-b6b956d37269" name="Default Changelist" comment="" />
+      <created>1590762449121</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590762449121</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="393" y="233" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590859853944">
+      <screen x="56" y="23" width="1736" height="1097" />
+    </state>
+    <state x="393" y="233" key="#com.intellij.execution.impl.EditConfigurationsDialog/1792.23.2560.1417/56.23.1736.1097@56.23.1736.1097" timestamp="1590859853943" />
+    <state x="171" y="123" width="1521" height="897" key="DiffContextDialog" timestamp="1590892237044">
+      <screen x="71" y="23" width="1721" height="1097" />
+    </state>
+    <state x="171" y="123" width="1521" height="897" key="DiffContextDialog/1792.23.2560.1417/71.23.1721.1097@71.23.1721.1097" timestamp="1590892237044" />
+    <state width="1700" height="216" key="GridCell.Tab.0.bottom" timestamp="1590923946750">
+      <screen x="66" y="23" width="1726" height="1097" />
+    </state>
+    <state width="1706" height="303" key="GridCell.Tab.0.bottom/1792.23.2560.1417/56.23.1736.1097@56.23.1736.1097" timestamp="1590859855766" />
+    <state width="1706" height="303" key="GridCell.Tab.0.bottom/1792.23.2560.1417/61.23.1731.1097@61.23.1731.1097" timestamp="1590860163663" />
+    <state width="1700" height="216" key="GridCell.Tab.0.bottom/1792.23.2560.1417/66.23.1726.1097@66.23.1726.1097" timestamp="1590923946750" />
+    <state width="1700" height="216" key="GridCell.Tab.0.bottom/1792.23.2560.1417/71.23.1721.1097@71.23.1721.1097" timestamp="1590892701630" />
+    <state width="1700" height="216" key="GridCell.Tab.0.center" timestamp="1590923946750">
+      <screen x="66" y="23" width="1726" height="1097" />
+    </state>
+    <state width="1706" height="303" key="GridCell.Tab.0.center/1792.23.2560.1417/56.23.1736.1097@56.23.1736.1097" timestamp="1590859855765" />
+    <state width="1706" height="303" key="GridCell.Tab.0.center/1792.23.2560.1417/61.23.1731.1097@61.23.1731.1097" timestamp="1590860163663" />
+    <state width="1700" height="216" key="GridCell.Tab.0.center/1792.23.2560.1417/66.23.1726.1097@66.23.1726.1097" timestamp="1590923946750" />
+    <state width="1700" height="216" key="GridCell.Tab.0.center/1792.23.2560.1417/71.23.1721.1097@71.23.1721.1097" timestamp="1590892701629" />
+    <state width="1700" height="216" key="GridCell.Tab.0.left" timestamp="1590923946750">
+      <screen x="66" y="23" width="1726" height="1097" />
+    </state>
+    <state width="1706" height="303" key="GridCell.Tab.0.left/1792.23.2560.1417/56.23.1736.1097@56.23.1736.1097" timestamp="1590859855765" />
+    <state width="1706" height="303" key="GridCell.Tab.0.left/1792.23.2560.1417/61.23.1731.1097@61.23.1731.1097" timestamp="1590860163662" />
+    <state width="1700" height="216" key="GridCell.Tab.0.left/1792.23.2560.1417/66.23.1726.1097@66.23.1726.1097" timestamp="1590923946750" />
+    <state width="1700" height="216" key="GridCell.Tab.0.left/1792.23.2560.1417/71.23.1721.1097@71.23.1721.1097" timestamp="1590892701629" />
+    <state width="1700" height="216" key="GridCell.Tab.0.right" timestamp="1590923946750">
+      <screen x="66" y="23" width="1726" height="1097" />
+    </state>
+    <state width="1706" height="303" key="GridCell.Tab.0.right/1792.23.2560.1417/56.23.1736.1097@56.23.1736.1097" timestamp="1590859855766" />
+    <state width="1706" height="303" key="GridCell.Tab.0.right/1792.23.2560.1417/61.23.1731.1097@61.23.1731.1097" timestamp="1590860163663" />
+    <state width="1700" height="216" key="GridCell.Tab.0.right/1792.23.2560.1417/66.23.1726.1097@66.23.1726.1097" timestamp="1590923946750" />
+    <state width="1700" height="216" key="GridCell.Tab.0.right/1792.23.2560.1417/71.23.1721.1097@71.23.1721.1097" timestamp="1590892701630" />
+    <state x="711" y="300" key="RollbackChangesDialog" timestamp="1590849893014">
+      <screen x="54" y="23" width="1738" height="1097" />
+    </state>
+    <state x="711" y="300" key="RollbackChangesDialog/1792.23.2560.1417/54.23.1738.1097@54.23.1738.1097" timestamp="1590849893014" />
+    <state x="430" y="210" key="SettingsEditor" timestamp="1590843082982">
+      <screen x="56" y="23" width="1736" height="1097" />
+    </state>
+    <state x="430" y="210" key="SettingsEditor/1792.23.2560.1417/56.23.1736.1097@56.23.1736.1097" timestamp="1590843082982" />
+  </component>
+</project>
