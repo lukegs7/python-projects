@@ -14,7 +14,7 @@ setup(
     # include_package_data
     install_requires=[
         'django==2.2.10',
-        'djangorestframework==3.11.0',
+        'djangorestframework==3.11.2',
         'coreapi==2.3.3'
     ],
     extras_require={},
