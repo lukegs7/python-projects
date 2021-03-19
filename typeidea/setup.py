@@ -20,7 +20,7 @@ setup(
         'django==2.2.10',
         'gunicorn==19.8.1',
         'supervisor==4.1.0',
-        'djangorestframework==3.10.2',
+        'djangorestframework==3.11.2',
         'django-autocomplete-light==3.2.10',
         'mistune==0.8.3',
         'Pillow==7.0.0',
