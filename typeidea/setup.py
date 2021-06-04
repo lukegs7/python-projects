@@ -17,7 +17,7 @@ setup(
     # ]},
     include_package_data=True,  # 方法二 配合 MANIFEST.in文件
     install_requires=[
-        'django==2.2.10',
+        'django==2.2.21',
         'gunicorn==19.8.1',
         'supervisor==4.1.0',
         'djangorestframework==3.10.2',
