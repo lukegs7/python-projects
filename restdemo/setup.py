@@ -13,7 +13,7 @@ setup(
     package_data={},
     # include_package_data
     install_requires=[
-        'django==2.2.10',
+        'django==2.2.22',
         'djangorestframework==3.11.0',
         'coreapi==2.3.3'
     ],
