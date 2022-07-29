@@ -22,7 +22,7 @@ setup(
         'supervisor==4.1.0',
         'djangorestframework==3.10.2',
         'django-autocomplete-light==3.2.10',
-        'mistune==0.8.3',
+        'mistune==2.0.3',
         'Pillow==7.0.0',
         'coreapi==2.3.3',
     ],
